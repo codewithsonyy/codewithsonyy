@@ -2,7 +2,7 @@
 # Hello  <img src="https://github.com/codewithsonyy/codewithsonyy/assets/114895266/b9e9ff4e-8954-49d8-9018-2fbd562b42b4" alt="bootstrap" width="30" height="30"/>  I'm Soni Kumari
 
  
-![](https://komarev.com/ghpvc/?username=codewithsonyy)
+
 
 [LETS CONNECT ON LINKEDIN](https://www.linkedin.com/in/soniiyy/)
 
@@ -19,6 +19,7 @@
 
 -⚡ 10X Rule- Average is a failing formula 
 
+![](https://komarev.com/ghpvc/?username=codewithsonyy&color=brightgreen)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
