@@ -15,7 +15,7 @@
 
 ### Javascript is classy but React js  is spicy.
 
--🌱 Lets build something interesting together! 
+-🌱 Aaj Khuch Tufani Karte hai!
 
 -💬 Ask me about React, Next JS, MERN Stack and other WebD Tech.
 
