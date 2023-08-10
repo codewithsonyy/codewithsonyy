@@ -1,7 +1,5 @@
 
-# Hello  <img src="https://github.com/codewithsonyy/codewithsonyy/assets/114895266/b9e9ff4e-8954-49d8-9018-2fbd562b42b4" alt="bootstrap" width="30" height="30"/>  I'm Soni Kumari
-
- 
+# Hello  <img src="https://github.com/codewithsonyy/codewithsonyy/assets/114895266/b9e9ff4e-8954-49d8-9018-2fbd562b42b4" alt="bootstrap" width="30" height="30"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+Soni+Kumari)](https://git.io/typing-svg)
 
 
 [LETS CONNECT ON LINKEDIN](https://www.linkedin.com/in/soniiyy/)
@@ -22,7 +20,7 @@
 ![](https://komarev.com/ghpvc/?username=codewithsonyy&color=brightgreen)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
@@ -43,8 +41,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithsonyy&show_icons=true&locale=en" alt="sonidevstats" /></p>
+![JasEva's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithsonyy&show_icons=true&theme=radical)<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsonyy&" alt="sonidevstreaks" /></p>
+[![JasEva's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsonyy&layout=compact&theme=radical)](https://github.com/jaseva/github-readme-stats)
 
-- Readme stats/card generated using [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+- Readme stats/card generated using [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 
