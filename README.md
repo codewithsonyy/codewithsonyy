@@ -19,7 +19,6 @@
 
 ![](https://komarev.com/ghpvc/?username=codewithsonyy&color=brightgreen)
 
-<h3 align="left">Languages and Tools:</h3>
 
 
 ## 🛠️ Technologies & Tools
