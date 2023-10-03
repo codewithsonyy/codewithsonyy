@@ -20,7 +20,6 @@
 -💬 Ask me about React, Next JS, MERN Stack and other WebD Tech.
 
 -📫 Reach me at codewithsony@gmail.com
--📄  <a href="https://drive.google.com/file/d/1XHH_EUE2CPSAbuU5bSrFZ82PPp8J1mqv/view?usp=drive_link" >My Resume</a>
 
 -⚡ 10X Rule- Average is a failing formula 
 
