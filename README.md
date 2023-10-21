@@ -15,19 +15,19 @@
 
 ### Javascript is classy but React js  is spicy.
 
--🌱 Aaj Khuch Tufani Karte hai!
+🌱 Aaj Khuch Toofani Karte hai!
 
--💬 Ask me about React, Next JS, MERN Stack and other WebD Tech.
+- I am a fiverr seller. [Connect](https://www.fiverr.com/s/dgj0Ez) with me!
 
--📫 Reach me at codewithsony@gmail.com
-
--⚡ 10X Rule- Average is a failing formula 
+- open to work
 
 
 
 
 
-## 🛠️ Technologies & Tools
+
+
+##  Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
@@ -51,4 +51,3 @@
 [![JasEva's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsonyy&layout=compact&theme=radical)](https://github.com/jaseva/github-readme-stats)
 
  <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
-- Readme stats/card generated using [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 
